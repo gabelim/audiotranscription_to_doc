@@ -1,0 +1,2925 @@
+{
+    "id": "ohahrsraoq-7bac-4f31-9527-c98faf5030fc",
+    "language_model": "assemblyai_default",
+    "acoustic_model": "assemblyai_default",
+    "language_code": "en_us",
+    "status": "completed",
+    "audio_url": "https://cdn.assemblyai.com/upload/843969e1-5c46-4c57-8ef1-0e12d00e2544",
+    "text": "And welcome to Imperial late online student takeover. My name is Romney Haywood, and I'll be your host for today's talk. And today, I'm. Joined by PhD student. Mel Pikasafi, who is studying cardiomyopathy with the use of bioinformatics and machine learning learning methods. Thank you so much for being here with us today. Matthew. Hi. Roman Lee. Really nice to be here. So, I guess my first question for you is, what exactly is it that you do? So, as you mentioned, I'm a second year PhD student, and I work in bind format, and I'm trying to develop machine learning methods that will help us understand better cardiomyopathies. And cardiomyopathies are essentially a disease in the heart muscle that has a genetic component, so it can be inherited through a family, and it actually makes it harder for the heart to pump blood, and it can lead to sudden cardiac death. So I'm using a combination of different data in order to be able to understand more this disease and develop machine learning methods.",
+    "words": [
+        {
+            "text": "And",
+            "start": 70,
+            "end": 198,
+            "confidence": 0.61,
+            "speaker": "B"
+        },
+        {
+            "text": "welcome",
+            "start": 224,
+            "end": 486,
+            "confidence": 0.99995,
+            "speaker": "B"
+        },
+        {
+            "text": "to",
+            "start": 548,
+            "end": 846,
+            "confidence": 1,
+            "speaker": "B"
+        },
+        {
+            "text": "Imperial",
+            "start": 908,
+            "end": 1366,
+            "confidence": 0.99451,
+            "speaker": "B"
+        },
+        {
+            "text": "late",
+            "start": 1438,
+            "end": 1774,
+            "confidence": 0.39228,
+            "speaker": "B"
+        },
+        {
+            "text": "online",
+            "start": 1822,
+            "end": 2214,
+            "confidence": 1,
+            "speaker": "B"
+        },
+        {
+            "text": "student",
+            "start": 2312,
+            "end": 2682,
+            "confidence": 0.98298,
+            "speaker": "B"
+        },
+        {
+            "text": "takeover.",
+            "start": 2756,
+            "end": 3430,
+            "confidence": 0.96411,
+            "speaker": "B"
+        },
+        {
+            "text": "My",
+            "start": 3550,
+            "end": 3798,
+            "confidence": 0.99995,
+            "speaker": "B"
+        },
+        {
+            "text": "name",
+            "start": 3824,
+            "end": 3978,
+            "confidence": 1,
+            "speaker": "B"
+        },
+        {
+            "text": "is",
+            "start": 4004,
+            "end": 4122,
+            "confidence": 0.99822,
+            "speaker": "B"
+        },
+        {
+            "text": "Romney",
+            "start": 4136,
+            "end": 4474,
+            "confidence": 0.05164,
+            "speaker": "B"
+        },
+        {
+            "text": "Haywood,",
+            "start": 4522,
+            "end": 4894,
+            "confidence": 0.2161,
+            "speaker": "B"
+        },
+        {
+            "text": "and",
+            "start": 4942,
+            "end": 5118,
+            "confidence": 0.89,
+            "speaker": "B"
+        },
+        {
+            "text": "I'll",
+            "start": 5144,
+            "end": 5326,
+            "confidence": 0.7129,
+            "speaker": "B"
+        },
+        {
+            "text": "be",
+            "start": 5338,
+            "end": 5442,
+            "confidence": 0.99912,
+            "speaker": "B"
+        },
+        {
+            "text": "your",
+            "start": 5456,
+            "end": 5598,
+            "confidence": 0.78137,
+            "speaker": "B"
+        },
+        {
+            "text": "host",
+            "start": 5624,
+            "end": 5854,
+            "confidence": 0.90972,
+            "speaker": "B"
+        },
+        {
+            "text": "for",
+            "start": 5902,
+            "end": 6078,
+            "confidence": 0.99515,
+            "speaker": "B"
+        },
+        {
+            "text": "today's",
+            "start": 6104,
+            "end": 6418,
+            "confidence": 0.98252,
+            "speaker": "B"
+        },
+        {
+            "text": "talk.",
+            "start": 6454,
+            "end": 6942,
+            "confidence": 0.99843,
+            "speaker": "B"
+        },
+        {
+            "text": "And",
+            "start": 7076,
+            "end": 7338,
+            "confidence": 0.71,
+            "speaker": "B"
+        },
+        {
+            "text": "today,",
+            "start": 7364,
+            "end": 7626,
+            "confidence": 1,
+            "speaker": "B"
+        },
+        {
+            "text": "I'm.",
+            "start": 7688,
+            "end": 7918,
+            "confidence": 0.80516,
+            "speaker": "B"
+        },
+        {
+            "text": "Joined",
+            "start": 7954,
+            "end": 8194,
+            "confidence": 0.95173,
+            "speaker": "A"
+        },
+        {
+            "text": "by",
+            "start": 8242,
+            "end": 8490,
+            "confidence": 0.99896,
+            "speaker": "A"
+        },
+        {
+            "text": "PhD",
+            "start": 8540,
+            "end": 9034,
+            "confidence": 0.55538,
+            "speaker": "A"
+        },
+        {
+            "text": "student.",
+            "start": 9082,
+            "end": 9402,
+            "confidence": 0.99418,
+            "speaker": "A"
+        },
+        {
+            "text": "Mel",
+            "start": 9476,
+            "end": 9718,
+            "confidence": 0.71667,
+            "speaker": "B"
+        },
+        {
+            "text": "Pikasafi,",
+            "start": 9754,
+            "end": 10498,
+            "confidence": 0.03091,
+            "speaker": "B"
+        },
+        {
+            "text": "who",
+            "start": 10534,
+            "end": 10698,
+            "confidence": 0.99744,
+            "speaker": "B"
+        },
+        {
+            "text": "is",
+            "start": 10724,
+            "end": 10878,
+            "confidence": 0.99418,
+            "speaker": "B"
+        },
+        {
+            "text": "studying",
+            "start": 10904,
+            "end": 11278,
+            "confidence": 0.99747,
+            "speaker": "B"
+        },
+        {
+            "text": "cardiomyopathy",
+            "start": 11314,
+            "end": 12382,
+            "confidence": 0.88416,
+            "speaker": "B"
+        },
+        {
+            "text": "with",
+            "start": 12466,
+            "end": 12678,
+            "confidence": 0.99886,
+            "speaker": "B"
+        },
+        {
+            "text": "the",
+            "start": 12704,
+            "end": 12822,
+            "confidence": 0.89,
+            "speaker": "B"
+        },
+        {
+            "text": "use",
+            "start": 12836,
+            "end": 12978,
+            "confidence": 0.98501,
+            "speaker": "B"
+        },
+        {
+            "text": "of",
+            "start": 13004,
+            "end": 13158,
+            "confidence": 1,
+            "speaker": "B"
+        },
+        {
+            "text": "bioinformatics",
+            "start": 13184,
+            "end": 14158,
+            "confidence": 0.69788,
+            "speaker": "B"
+        },
+        {
+            "text": "and",
+            "start": 14194,
+            "end": 14358,
+            "confidence": 0.98,
+            "speaker": "B"
+        },
+        {
+            "text": "machine",
+            "start": 14384,
+            "end": 14710,
+            "confidence": 0.70487,
+            "speaker": "B"
+        },
+        {
+            "text": "learning",
+            "start": 14770,
+            "end": 14958,
+            "confidence": 0.90329,
+            "speaker": "B"
+        },
+        {
+            "text": "learning",
+            "start": 14984,
+            "end": 15174,
+            "confidence": 0.47585,
+            "speaker": "B"
+        },
+        {
+            "text": "methods.",
+            "start": 15212,
+            "end": 15850,
+            "confidence": 0.80811,
+            "speaker": "B"
+        },
+        {
+            "text": "Thank",
+            "start": 15970,
+            "end": 16218,
+            "confidence": 0.99935,
+            "speaker": "B"
+        },
+        {
+            "text": "you",
+            "start": 16244,
+            "end": 16362,
+            "confidence": 1,
+            "speaker": "B"
+        },
+        {
+            "text": "so",
+            "start": 16376,
+            "end": 16518,
+            "confidence": 0.77923,
+            "speaker": "B"
+        },
+        {
+            "text": "much",
+            "start": 16544,
+            "end": 16662,
+            "confidence": 0.99997,
+            "speaker": "B"
+        },
+        {
+            "text": "for",
+            "start": 16676,
+            "end": 16818,
+            "confidence": 0.62072,
+            "speaker": "B"
+        },
+        {
+            "text": "being",
+            "start": 16844,
+            "end": 17070,
+            "confidence": 0.9998,
+            "speaker": "B"
+        },
+        {
+            "text": "here",
+            "start": 17120,
+            "end": 17262,
+            "confidence": 0.99556,
+            "speaker": "B"
+        },
+        {
+            "text": "with",
+            "start": 17276,
+            "end": 17418,
+            "confidence": 0.77329,
+            "speaker": "B"
+        },
+        {
+            "text": "us",
+            "start": 17444,
+            "end": 17562,
+            "confidence": 1,
+            "speaker": "B"
+        },
+        {
+            "text": "today.",
+            "start": 17576,
+            "end": 17790,
+            "confidence": 0.72,
+            "speaker": "B"
+        },
+        {
+            "text": "Matthew.",
+            "start": 17840,
+            "end": 18430,
+            "confidence": 0.19625,
+            "speaker": "B"
+        },
+        {
+            "text": "Hi.",
+            "start": 18550,
+            "end": 18834,
+            "confidence": 0.96595,
+            "speaker": "A"
+        },
+        {
+            "text": "Roman",
+            "start": 18872,
+            "end": 19078,
+            "confidence": 0.38948,
+            "speaker": "A"
+        },
+        {
+            "text": "Lee.",
+            "start": 19114,
+            "end": 19318,
+            "confidence": 0.24832,
+            "speaker": "A"
+        },
+        {
+            "text": "Really",
+            "start": 19354,
+            "end": 19518,
+            "confidence": 0.87301,
+            "speaker": "A"
+        },
+        {
+            "text": "nice",
+            "start": 19544,
+            "end": 19734,
+            "confidence": 0.99842,
+            "speaker": "A"
+        },
+        {
+            "text": "to",
+            "start": 19772,
+            "end": 19902,
+            "confidence": 0.89,
+            "speaker": "A"
+        },
+        {
+            "text": "be",
+            "start": 19916,
+            "end": 20022,
+            "confidence": 0.30758,
+            "speaker": "A"
+        },
+        {
+            "text": "here.",
+            "start": 20036,
+            "end": 20600,
+            "confidence": 0.98243,
+            "speaker": "A"
+        },
+        {
+            "text": "So,",
+            "start": 21290,
+            "end": 21654,
+            "confidence": 0.53953,
+            "speaker": "B"
+        },
+        {
+            "text": "I",
+            "start": 21692,
+            "end": 21822,
+            "confidence": 0.97,
+            "speaker": "B"
+        },
+        {
+            "text": "guess",
+            "start": 21836,
+            "end": 22014,
+            "confidence": 0.9992,
+            "speaker": "B"
+        },
+        {
+            "text": "my",
+            "start": 22052,
+            "end": 22218,
+            "confidence": 0.99926,
+            "speaker": "B"
+        },
+        {
+            "text": "first",
+            "start": 22244,
+            "end": 22470,
+            "confidence": 1,
+            "speaker": "B"
+        },
+        {
+            "text": "question",
+            "start": 22520,
+            "end": 22770,
+            "confidence": 0.73799,
+            "speaker": "B"
+        },
+        {
+            "text": "for",
+            "start": 22820,
+            "end": 22962,
+            "confidence": 0.78213,
+            "speaker": "B"
+        },
+        {
+            "text": "you",
+            "start": 22976,
+            "end": 23118,
+            "confidence": 0.99,
+            "speaker": "B"
+        },
+        {
+            "text": "is,",
+            "start": 23144,
+            "end": 23334,
+            "confidence": 0.74296,
+            "speaker": "B"
+        },
+        {
+            "text": "what",
+            "start": 23372,
+            "end": 23538,
+            "confidence": 0.99944,
+            "speaker": "B"
+        },
+        {
+            "text": "exactly",
+            "start": 23564,
+            "end": 23862,
+            "confidence": 0.9997,
+            "speaker": "B"
+        },
+        {
+            "text": "is",
+            "start": 23936,
+            "end": 24102,
+            "confidence": 0.99851,
+            "speaker": "B"
+        },
+        {
+            "text": "it",
+            "start": 24116,
+            "end": 24222,
+            "confidence": 0.97,
+            "speaker": "B"
+        },
+        {
+            "text": "that",
+            "start": 24236,
+            "end": 24378,
+            "confidence": 0.99085,
+            "speaker": "B"
+        },
+        {
+            "text": "you",
+            "start": 24404,
+            "end": 24522,
+            "confidence": 1,
+            "speaker": "B"
+        },
+        {
+            "text": "do?",
+            "start": 24536,
+            "end": 25100,
+            "confidence": 0.99808,
+            "speaker": "B"
+        },
+        {
+            "text": "So,",
+            "start": 26270,
+            "end": 26598,
+            "confidence": 0.70468,
+            "speaker": "A"
+        },
+        {
+            "text": "as",
+            "start": 26624,
+            "end": 26778,
+            "confidence": 0.99783,
+            "speaker": "A"
+        },
+        {
+            "text": "you",
+            "start": 26804,
+            "end": 26994,
+            "confidence": 0.98,
+            "speaker": "A"
+        },
+        {
+            "text": "mentioned,",
+            "start": 27032,
+            "end": 27378,
+            "confidence": 0.99959,
+            "speaker": "A"
+        },
+        {
+            "text": "I'm",
+            "start": 27464,
+            "end": 27742,
+            "confidence": 0.90509,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 27766,
+            "end": 27918,
+            "confidence": 0.88,
+            "speaker": "A"
+        },
+        {
+            "text": "second",
+            "start": 27944,
+            "end": 28170,
+            "confidence": 0.99,
+            "speaker": "A"
+        },
+        {
+            "text": "year",
+            "start": 28220,
+            "end": 28398,
+            "confidence": 0.96472,
+            "speaker": "A"
+        },
+        {
+            "text": "PhD",
+            "start": 28424,
+            "end": 28894,
+            "confidence": 0.89765,
+            "speaker": "A"
+        },
+        {
+            "text": "student,",
+            "start": 28942,
+            "end": 29406,
+            "confidence": 0.99451,
+            "speaker": "A"
+        },
+        {
+            "text": "and",
+            "start": 29528,
+            "end": 30200,
+            "confidence": 0.81,
+            "speaker": "A"
+        },
+        {
+            "text": "I",
+            "start": 30650,
+            "end": 31050,
+            "confidence": 0.62,
+            "speaker": "A"
+        },
+        {
+            "text": "work",
+            "start": 31100,
+            "end": 31314,
+            "confidence": 0.99495,
+            "speaker": "A"
+        },
+        {
+            "text": "in",
+            "start": 31352,
+            "end": 31518,
+            "confidence": 0.98589,
+            "speaker": "A"
+        },
+        {
+            "text": "bind",
+            "start": 31544,
+            "end": 31798,
+            "confidence": 0.47886,
+            "speaker": "A"
+        },
+        {
+            "text": "format,",
+            "start": 31834,
+            "end": 32338,
+            "confidence": 0.57948,
+            "speaker": "A"
+        },
+        {
+            "text": "and",
+            "start": 32434,
+            "end": 32694,
+            "confidence": 0.52,
+            "speaker": "A"
+        },
+        {
+            "text": "I'm",
+            "start": 32732,
+            "end": 32938,
+            "confidence": 0.7967,
+            "speaker": "A"
+        },
+        {
+            "text": "trying",
+            "start": 32974,
+            "end": 33138,
+            "confidence": 0.99962,
+            "speaker": "A"
+        },
+        {
+            "text": "to",
+            "start": 33164,
+            "end": 33318,
+            "confidence": 1,
+            "speaker": "A"
+        },
+        {
+            "text": "develop",
+            "start": 33344,
+            "end": 33678,
+            "confidence": 0.99953,
+            "speaker": "A"
+        },
+        {
+            "text": "machine",
+            "start": 33764,
+            "end": 34078,
+            "confidence": 0.99964,
+            "speaker": "A"
+        },
+        {
+            "text": "learning",
+            "start": 34114,
+            "end": 34386,
+            "confidence": 0.99991,
+            "speaker": "A"
+        },
+        {
+            "text": "methods",
+            "start": 34448,
+            "end": 35134,
+            "confidence": 0.98342,
+            "speaker": "A"
+        },
+        {
+            "text": "that",
+            "start": 35242,
+            "end": 35514,
+            "confidence": 0.99792,
+            "speaker": "A"
+        },
+        {
+            "text": "will",
+            "start": 35552,
+            "end": 35718,
+            "confidence": 0.99689,
+            "speaker": "A"
+        },
+        {
+            "text": "help",
+            "start": 35744,
+            "end": 35934,
+            "confidence": 0.99991,
+            "speaker": "A"
+        },
+        {
+            "text": "us",
+            "start": 35972,
+            "end": 36138,
+            "confidence": 1,
+            "speaker": "A"
+        },
+        {
+            "text": "understand",
+            "start": 36164,
+            "end": 36570,
+            "confidence": 0.99993,
+            "speaker": "A"
+        },
+        {
+            "text": "better",
+            "start": 36680,
+            "end": 37340,
+            "confidence": 0.99972,
+            "speaker": "A"
+        },
+        {
+            "text": "cardiomyopathies.",
+            "start": 37670,
+            "end": 38890,
+            "confidence": 0.73296,
+            "speaker": "A"
+        },
+        {
+            "text": "And",
+            "start": 38950,
+            "end": 39210,
+            "confidence": 0.5,
+            "speaker": "A"
+        },
+        {
+            "text": "cardiomyopathies",
+            "start": 39260,
+            "end": 40078,
+            "confidence": 0.78036,
+            "speaker": "A"
+        },
+        {
+            "text": "are",
+            "start": 40114,
+            "end": 40278,
+            "confidence": 0.9806,
+            "speaker": "A"
+        },
+        {
+            "text": "essentially",
+            "start": 40304,
+            "end": 41026,
+            "confidence": 0.99603,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 41218,
+            "end": 41574,
+            "confidence": 0.95,
+            "speaker": "A"
+        },
+        {
+            "text": "disease",
+            "start": 41612,
+            "end": 42010,
+            "confidence": 0.65554,
+            "speaker": "A"
+        },
+        {
+            "text": "in",
+            "start": 42070,
+            "end": 42258,
+            "confidence": 0.68947,
+            "speaker": "A"
+        },
+        {
+            "text": "the",
+            "start": 42284,
+            "end": 42438,
+            "confidence": 0.99,
+            "speaker": "A"
+        },
+        {
+            "text": "heart",
+            "start": 42464,
+            "end": 42690,
+            "confidence": 0.99871,
+            "speaker": "A"
+        },
+        {
+            "text": "muscle",
+            "start": 42740,
+            "end": 43546,
+            "confidence": 0.99839,
+            "speaker": "A"
+        },
+        {
+            "text": "that",
+            "start": 43738,
+            "end": 44058,
+            "confidence": 0.99279,
+            "speaker": "A"
+        },
+        {
+            "text": "has",
+            "start": 44084,
+            "end": 44238,
+            "confidence": 0.9967,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 44264,
+            "end": 44382,
+            "confidence": 0.98,
+            "speaker": "A"
+        },
+        {
+            "text": "genetic",
+            "start": 44396,
+            "end": 44794,
+            "confidence": 0.83572,
+            "speaker": "A"
+        },
+        {
+            "text": "component,",
+            "start": 44842,
+            "end": 45630,
+            "confidence": 0.83721,
+            "speaker": "A"
+        },
+        {
+            "text": "so",
+            "start": 46070,
+            "end": 46434,
+            "confidence": 0.88742,
+            "speaker": "A"
+        },
+        {
+            "text": "it",
+            "start": 46472,
+            "end": 46638,
+            "confidence": 0.94,
+            "speaker": "A"
+        },
+        {
+            "text": "can",
+            "start": 46664,
+            "end": 46818,
+            "confidence": 0.99934,
+            "speaker": "A"
+        },
+        {
+            "text": "be",
+            "start": 46844,
+            "end": 46962,
+            "confidence": 0.99831,
+            "speaker": "A"
+        },
+        {
+            "text": "inherited",
+            "start": 46976,
+            "end": 47806,
+            "confidence": 0.68653,
+            "speaker": "A"
+        },
+        {
+            "text": "through",
+            "start": 47998,
+            "end": 48354,
+            "confidence": 0.98253,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 48392,
+            "end": 48522,
+            "confidence": 0.79,
+            "speaker": "A"
+        },
+        {
+            "text": "family,",
+            "start": 48536,
+            "end": 49074,
+            "confidence": 1,
+            "speaker": "A"
+        },
+        {
+            "text": "and",
+            "start": 49232,
+            "end": 49662,
+            "confidence": 0.85,
+            "speaker": "A"
+        },
+        {
+            "text": "it",
+            "start": 49736,
+            "end": 49974,
+            "confidence": 0.99,
+            "speaker": "A"
+        },
+        {
+            "text": "actually",
+            "start": 50012,
+            "end": 50322,
+            "confidence": 0.99832,
+            "speaker": "A"
+        },
+        {
+            "text": "makes",
+            "start": 50396,
+            "end": 50634,
+            "confidence": 0.99837,
+            "speaker": "A"
+        },
+        {
+            "text": "it",
+            "start": 50672,
+            "end": 50838,
+            "confidence": 0.96,
+            "speaker": "A"
+        },
+        {
+            "text": "harder",
+            "start": 50864,
+            "end": 51142,
+            "confidence": 0.9996,
+            "speaker": "A"
+        },
+        {
+            "text": "for",
+            "start": 51166,
+            "end": 51318,
+            "confidence": 0.9994,
+            "speaker": "A"
+        },
+        {
+            "text": "the",
+            "start": 51344,
+            "end": 51498,
+            "confidence": 0.98,
+            "speaker": "A"
+        },
+        {
+            "text": "heart",
+            "start": 51524,
+            "end": 51822,
+            "confidence": 0.88644,
+            "speaker": "A"
+        },
+        {
+            "text": "to",
+            "start": 51896,
+            "end": 52314,
+            "confidence": 0.99,
+            "speaker": "A"
+        },
+        {
+            "text": "pump",
+            "start": 52412,
+            "end": 52714,
+            "confidence": 0.98981,
+            "speaker": "A"
+        },
+        {
+            "text": "blood,",
+            "start": 52762,
+            "end": 53110,
+            "confidence": 0.98883,
+            "speaker": "A"
+        },
+        {
+            "text": "and",
+            "start": 53170,
+            "end": 53646,
+            "confidence": 0.95,
+            "speaker": "A"
+        },
+        {
+            "text": "it",
+            "start": 53768,
+            "end": 53982,
+            "confidence": 0.96,
+            "speaker": "A"
+        },
+        {
+            "text": "can",
+            "start": 53996,
+            "end": 54138,
+            "confidence": 0.61103,
+            "speaker": "A"
+        },
+        {
+            "text": "lead",
+            "start": 54164,
+            "end": 54318,
+            "confidence": 0.69613,
+            "speaker": "A"
+        },
+        {
+            "text": "to",
+            "start": 54344,
+            "end": 54966,
+            "confidence": 0.7,
+            "speaker": "A"
+        },
+        {
+            "text": "sudden",
+            "start": 55148,
+            "end": 55534,
+            "confidence": 0.60231,
+            "speaker": "A"
+        },
+        {
+            "text": "cardiac",
+            "start": 55582,
+            "end": 56038,
+            "confidence": 0.95756,
+            "speaker": "A"
+        },
+        {
+            "text": "death.",
+            "start": 56074,
+            "end": 56730,
+            "confidence": 0.88022,
+            "speaker": "A"
+        },
+        {
+            "text": "So",
+            "start": 57410,
+            "end": 57738,
+            "confidence": 0.76541,
+            "speaker": "A"
+        },
+        {
+            "text": "I'm",
+            "start": 57764,
+            "end": 58138,
+            "confidence": 0.25583,
+            "speaker": "A"
+        },
+        {
+            "text": "using",
+            "start": 58174,
+            "end": 58518,
+            "confidence": 0.99948,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 58604,
+            "end": 58818,
+            "confidence": 0.64,
+            "speaker": "A"
+        },
+        {
+            "text": "combination",
+            "start": 58844,
+            "end": 59314,
+            "confidence": 0.43091,
+            "speaker": "A"
+        },
+        {
+            "text": "of",
+            "start": 59362,
+            "end": 59538,
+            "confidence": 1,
+            "speaker": "A"
+        },
+        {
+            "text": "different",
+            "start": 59564,
+            "end": 59862,
+            "confidence": 0.99946,
+            "speaker": "A"
+        },
+        {
+            "text": "data",
+            "start": 59936,
+            "end": 60174,
+            "confidence": 0.55189,
+            "speaker": "A"
+        },
+        {
+            "text": "in",
+            "start": 60212,
+            "end": 60342,
+            "confidence": 0.62024,
+            "speaker": "A"
+        },
+        {
+            "text": "order",
+            "start": 60356,
+            "end": 60570,
+            "confidence": 0.93768,
+            "speaker": "A"
+        },
+        {
+            "text": "to",
+            "start": 60620,
+            "end": 60762,
+            "confidence": 1,
+            "speaker": "A"
+        },
+        {
+            "text": "be",
+            "start": 60776,
+            "end": 60918,
+            "confidence": 0.99741,
+            "speaker": "A"
+        },
+        {
+            "text": "able",
+            "start": 60944,
+            "end": 61242,
+            "confidence": 0.73656,
+            "speaker": "A"
+        },
+        {
+            "text": "to",
+            "start": 61316,
+            "end": 61878,
+            "confidence": 1,
+            "speaker": "A"
+        },
+        {
+            "text": "understand",
+            "start": 62024,
+            "end": 62478,
+            "confidence": 0.99995,
+            "speaker": "A"
+        },
+        {
+            "text": "more",
+            "start": 62564,
+            "end": 63210,
+            "confidence": 0.99,
+            "speaker": "A"
+        },
+        {
+            "text": "this",
+            "start": 63380,
+            "end": 63750,
+            "confidence": 0.91,
+            "speaker": "A"
+        },
+        {
+            "text": "disease",
+            "start": 63800,
+            "end": 64354,
+            "confidence": 0.67137,
+            "speaker": "A"
+        },
+        {
+            "text": "and",
+            "start": 64462,
+            "end": 64914,
+            "confidence": 0.99,
+            "speaker": "A"
+        },
+        {
+            "text": "develop",
+            "start": 65012,
+            "end": 65382,
+            "confidence": 0.9975,
+            "speaker": "A"
+        },
+        {
+            "text": "machine",
+            "start": 65456,
+            "end": 65758,
+            "confidence": 0.9956,
+            "speaker": "A"
+        },
+        {
+            "text": "learning",
+            "start": 65794,
+            "end": 66066,
+            "confidence": 0.99992,
+            "speaker": "A"
+        },
+        {
+            "text": "methods.",
+            "start": 66128,
+            "end": 66430,
+            "confidence": 0.88394,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "confidence": 0.8330879166666668,
+            "end": 7918,
+            "speaker": "B",
+            "start": 70,
+            "text": "And welcome to Imperial late online student takeover. My name is Romney Haywood, and I'll be your host for today's talk. And today, I'm.",
+            "words": [
+                {
+                    "text": "And",
+                    "start": 70,
+                    "end": 198,
+                    "confidence": 0.61,
+                    "speaker": "B"
+                },
+                {
+                    "text": "welcome",
+                    "start": 224,
+                    "end": 486,
+                    "confidence": 0.99995,
+                    "speaker": "B"
+                },
+                {
+                    "text": "to",
+                    "start": 548,
+                    "end": 846,
+                    "confidence": 1,
+                    "speaker": "B"
+                },
+                {
+                    "text": "Imperial",
+                    "start": 908,
+                    "end": 1366,
+                    "confidence": 0.99451,
+                    "speaker": "B"
+                },
+                {
+                    "text": "late",
+                    "start": 1438,
+                    "end": 1774,
+                    "confidence": 0.39228,
+                    "speaker": "B"
+                },
+                {
+                    "text": "online",
+                    "start": 1822,
+                    "end": 2214,
+                    "confidence": 1,
+                    "speaker": "B"
+                },
+                {
+                    "text": "student",
+                    "start": 2312,
+                    "end": 2682,
+                    "confidence": 0.98298,
+                    "speaker": "B"
+                },
+                {
+                    "text": "takeover.",
+                    "start": 2756,
+                    "end": 3430,
+                    "confidence": 0.96411,
+                    "speaker": "B"
+                },
+                {
+                    "text": "My",
+                    "start": 3550,
+                    "end": 3798,
+                    "confidence": 0.99995,
+                    "speaker": "B"
+                },
+                {
+                    "text": "name",
+                    "start": 3824,
+                    "end": 3978,
+                    "confidence": 1,
+                    "speaker": "B"
+                },
+                {
+                    "text": "is",
+                    "start": 4004,
+                    "end": 4122,
+                    "confidence": 0.99822,
+                    "speaker": "B"
+                },
+                {
+                    "text": "Romney",
+                    "start": 4136,
+                    "end": 4474,
+                    "confidence": 0.05164,
+                    "speaker": "B"
+                },
+                {
+                    "text": "Haywood,",
+                    "start": 4522,
+                    "end": 4894,
+                    "confidence": 0.2161,
+                    "speaker": "B"
+                },
+                {
+                    "text": "and",
+                    "start": 4942,
+                    "end": 5118,
+                    "confidence": 0.89,
+                    "speaker": "B"
+                },
+                {
+                    "text": "I'll",
+                    "start": 5144,
+                    "end": 5326,
+                    "confidence": 0.7129,
+                    "speaker": "B"
+                },
+                {
+                    "text": "be",
+                    "start": 5338,
+                    "end": 5442,
+                    "confidence": 0.99912,
+                    "speaker": "B"
+                },
+                {
+                    "text": "your",
+                    "start": 5456,
+                    "end": 5598,
+                    "confidence": 0.78137,
+                    "speaker": "B"
+                },
+                {
+                    "text": "host",
+                    "start": 5624,
+                    "end": 5854,
+                    "confidence": 0.90972,
+                    "speaker": "B"
+                },
+                {
+                    "text": "for",
+                    "start": 5902,
+                    "end": 6078,
+                    "confidence": 0.99515,
+                    "speaker": "B"
+                },
+                {
+                    "text": "today's",
+                    "start": 6104,
+                    "end": 6418,
+                    "confidence": 0.98252,
+                    "speaker": "B"
+                },
+                {
+                    "text": "talk.",
+                    "start": 6454,
+                    "end": 6942,
+                    "confidence": 0.99843,
+                    "speaker": "B"
+                },
+                {
+                    "text": "And",
+                    "start": 7076,
+                    "end": 7338,
+                    "confidence": 0.71,
+                    "speaker": "B"
+                },
+                {
+                    "text": "today,",
+                    "start": 7364,
+                    "end": 7626,
+                    "confidence": 1,
+                    "speaker": "B"
+                },
+                {
+                    "text": "I'm.",
+                    "start": 7688,
+                    "end": 7918,
+                    "confidence": 0.80516,
+                    "speaker": "B"
+                }
+            ]
+        },
+        {
+            "confidence": 0.8750625,
+            "end": 9402,
+            "speaker": "A",
+            "start": 7954,
+            "text": "Joined by PhD student.",
+            "words": [
+                {
+                    "text": "Joined",
+                    "start": 7954,
+                    "end": 8194,
+                    "confidence": 0.95173,
+                    "speaker": "A"
+                },
+                {
+                    "text": "by",
+                    "start": 8242,
+                    "end": 8490,
+                    "confidence": 0.99896,
+                    "speaker": "A"
+                },
+                {
+                    "text": "PhD",
+                    "start": 8540,
+                    "end": 9034,
+                    "confidence": 0.55538,
+                    "speaker": "A"
+                },
+                {
+                    "text": "student.",
+                    "start": 9082,
+                    "end": 9402,
+                    "confidence": 0.99418,
+                    "speaker": "A"
+                }
+            ]
+        },
+        {
+            "confidence": 0.8203285185185183,
+            "end": 18430,
+            "speaker": "B",
+            "start": 9476,
+            "text": "Mel Pikasafi, who is studying cardiomyopathy with the use of bioinformatics and machine learning learning methods. Thank you so much for being here with us today. Matthew.",
+            "words": [
+                {
+                    "text": "Mel",
+                    "start": 9476,
+                    "end": 9718,
+                    "confidence": 0.71667,
+                    "speaker": "B"
+                },
+                {
+                    "text": "Pikasafi,",
+                    "start": 9754,
+                    "end": 10498,
+                    "confidence": 0.03091,
+                    "speaker": "B"
+                },
+                {
+                    "text": "who",
+                    "start": 10534,
+                    "end": 10698,
+                    "confidence": 0.99744,
+                    "speaker": "B"
+                },
+                {
+                    "text": "is",
+                    "start": 10724,
+                    "end": 10878,
+                    "confidence": 0.99418,
+                    "speaker": "B"
+                },
+                {
+                    "text": "studying",
+                    "start": 10904,
+                    "end": 11278,
+                    "confidence": 0.99747,
+                    "speaker": "B"
+                },
+                {
+                    "text": "cardiomyopathy",
+                    "start": 11314,
+                    "end": 12382,
+                    "confidence": 0.88416,
+                    "speaker": "B"
+                },
+                {
+                    "text": "with",
+                    "start": 12466,
+                    "end": 12678,
+                    "confidence": 0.99886,
+                    "speaker": "B"
+                },
+                {
+                    "text": "the",
+                    "start": 12704,
+                    "end": 12822,
+                    "confidence": 0.89,
+                    "speaker": "B"
+                },
+                {
+                    "text": "use",
+                    "start": 12836,
+                    "end": 12978,
+                    "confidence": 0.98501,
+                    "speaker": "B"
+                },
+                {
+                    "text": "of",
+                    "start": 13004,
+                    "end": 13158,
+                    "confidence": 1,
+                    "speaker": "B"
+                },
+                {
+                    "text": "bioinformatics",
+                    "start": 13184,
+                    "end": 14158,
+                    "confidence": 0.69788,
+                    "speaker": "B"
+                },
+                {
+                    "text": "and",
+                    "start": 14194,
+                    "end": 14358,
+                    "confidence": 0.98,
+                    "speaker": "B"
+                },
+                {
+                    "text": "machine",
+                    "start": 14384,
+                    "end": 14710,
+                    "confidence": 0.70487,
+                    "speaker": "B"
+                },
+                {
+                    "text": "learning",
+                    "start": 14770,
+                    "end": 14958,
+                    "confidence": 0.90329,
+                    "speaker": "B"
+                },
+                {
+                    "text": "learning",
+                    "start": 14984,
+                    "end": 15174,
+                    "confidence": 0.47585,
+                    "speaker": "B"
+                },
+                {
+                    "text": "methods.",
+                    "start": 15212,
+                    "end": 15850,
+                    "confidence": 0.80811,
+                    "speaker": "B"
+                },
+                {
+                    "text": "Thank",
+                    "start": 15970,
+                    "end": 16218,
+                    "confidence": 0.99935,
+                    "speaker": "B"
+                },
+                {
+                    "text": "you",
+                    "start": 16244,
+                    "end": 16362,
+                    "confidence": 1,
+                    "speaker": "B"
+                },
+                {
+                    "text": "so",
+                    "start": 16376,
+                    "end": 16518,
+                    "confidence": 0.77923,
+                    "speaker": "B"
+                },
+                {
+                    "text": "much",
+                    "start": 16544,
+                    "end": 16662,
+                    "confidence": 0.99997,
+                    "speaker": "B"
+                },
+                {
+                    "text": "for",
+                    "start": 16676,
+                    "end": 16818,
+                    "confidence": 0.62072,
+                    "speaker": "B"
+                },
+                {
+                    "text": "being",
+                    "start": 16844,
+                    "end": 17070,
+                    "confidence": 0.9998,
+                    "speaker": "B"
+                },
+                {
+                    "text": "here",
+                    "start": 17120,
+                    "end": 17262,
+                    "confidence": 0.99556,
+                    "speaker": "B"
+                },
+                {
+                    "text": "with",
+                    "start": 17276,
+                    "end": 17418,
+                    "confidence": 0.77329,
+                    "speaker": "B"
+                },
+                {
+                    "text": "us",
+                    "start": 17444,
+                    "end": 17562,
+                    "confidence": 1,
+                    "speaker": "B"
+                },
+                {
+                    "text": "today.",
+                    "start": 17576,
+                    "end": 17790,
+                    "confidence": 0.72,
+                    "speaker": "B"
+                },
+                {
+                    "text": "Matthew.",
+                    "start": 17840,
+                    "end": 18430,
+                    "confidence": 0.19625,
+                    "speaker": "B"
+                }
+            ]
+        },
+        {
+            "confidence": 0.7068987499999999,
+            "end": 20600,
+            "speaker": "A",
+            "start": 18550,
+            "text": "Hi. Roman Lee. Really nice to be here.",
+            "words": [
+                {
+                    "text": "Hi.",
+                    "start": 18550,
+                    "end": 18834,
+                    "confidence": 0.96595,
+                    "speaker": "A"
+                },
+                {
+                    "text": "Roman",
+                    "start": 18872,
+                    "end": 19078,
+                    "confidence": 0.38948,
+                    "speaker": "A"
+                },
+                {
+                    "text": "Lee.",
+                    "start": 19114,
+                    "end": 19318,
+                    "confidence": 0.24832,
+                    "speaker": "A"
+                },
+                {
+                    "text": "Really",
+                    "start": 19354,
+                    "end": 19518,
+                    "confidence": 0.87301,
+                    "speaker": "A"
+                },
+                {
+                    "text": "nice",
+                    "start": 19544,
+                    "end": 19734,
+                    "confidence": 0.99842,
+                    "speaker": "A"
+                },
+                {
+                    "text": "to",
+                    "start": 19772,
+                    "end": 19902,
+                    "confidence": 0.89,
+                    "speaker": "A"
+                },
+                {
+                    "text": "be",
+                    "start": 19916,
+                    "end": 20022,
+                    "confidence": 0.30758,
+                    "speaker": "A"
+                },
+                {
+                    "text": "here.",
+                    "start": 20036,
+                    "end": 20600,
+                    "confidence": 0.98243,
+                    "speaker": "A"
+                }
+            ]
+        },
+        {
+            "confidence": 0.919853125,
+            "end": 25100,
+            "speaker": "B",
+            "start": 21290,
+            "text": "So, I guess my first question for you is, what exactly is it that you do?",
+            "words": [
+                {
+                    "text": "So,",
+                    "start": 21290,
+                    "end": 21654,
+                    "confidence": 0.53953,
+                    "speaker": "B"
+                },
+                {
+                    "text": "I",
+                    "start": 21692,
+                    "end": 21822,
+                    "confidence": 0.97,
+                    "speaker": "B"
+                },
+                {
+                    "text": "guess",
+                    "start": 21836,
+                    "end": 22014,
+                    "confidence": 0.9992,
+                    "speaker": "B"
+                },
+                {
+                    "text": "my",
+                    "start": 22052,
+                    "end": 22218,
+                    "confidence": 0.99926,
+                    "speaker": "B"
+                },
+                {
+                    "text": "first",
+                    "start": 22244,
+                    "end": 22470,
+                    "confidence": 1,
+                    "speaker": "B"
+                },
+                {
+                    "text": "question",
+                    "start": 22520,
+                    "end": 22770,
+                    "confidence": 0.73799,
+                    "speaker": "B"
+                },
+                {
+                    "text": "for",
+                    "start": 22820,
+                    "end": 22962,
+                    "confidence": 0.78213,
+                    "speaker": "B"
+                },
+                {
+                    "text": "you",
+                    "start": 22976,
+                    "end": 23118,
+                    "confidence": 0.99,
+                    "speaker": "B"
+                },
+                {
+                    "text": "is,",
+                    "start": 23144,
+                    "end": 23334,
+                    "confidence": 0.74296,
+                    "speaker": "B"
+                },
+                {
+                    "text": "what",
+                    "start": 23372,
+                    "end": 23538,
+                    "confidence": 0.99944,
+                    "speaker": "B"
+                },
+                {
+                    "text": "exactly",
+                    "start": 23564,
+                    "end": 23862,
+                    "confidence": 0.9997,
+                    "speaker": "B"
+                },
+                {
+                    "text": "is",
+                    "start": 23936,
+                    "end": 24102,
+                    "confidence": 0.99851,
+                    "speaker": "B"
+                },
+                {
+                    "text": "it",
+                    "start": 24116,
+                    "end": 24222,
+                    "confidence": 0.97,
+                    "speaker": "B"
+                },
+                {
+                    "text": "that",
+                    "start": 24236,
+                    "end": 24378,
+                    "confidence": 0.99085,
+                    "speaker": "B"
+                },
+                {
+                    "text": "you",
+                    "start": 24404,
+                    "end": 24522,
+                    "confidence": 1,
+                    "speaker": "B"
+                },
+                {
+                    "text": "do?",
+                    "start": 24536,
+                    "end": 25100,
+                    "confidence": 0.99808,
+                    "speaker": "B"
+                }
+            ]
+        },
+        {
+            "confidence": 0.882847628865979,
+            "end": 66430,
+            "speaker": "A",
+            "start": 26270,
+            "text": "So, as you mentioned, I'm a second year PhD student, and I work in bind format, and I'm trying to develop machine learning methods that will help us understand better cardiomyopathies. And cardiomyopathies are essentially a disease in the heart muscle that has a genetic component, so it can be inherited through a family, and it actually makes it harder for the heart to pump blood, and it can lead to sudden cardiac death. So I'm using a combination of different data in order to be able to understand more this disease and develop machine learning methods.",
+            "words": [
+                {
+                    "text": "So,",
+                    "start": 26270,
+                    "end": 26598,
+                    "confidence": 0.70468,
+                    "speaker": "A"
+                },
+                {
+                    "text": "as",
+                    "start": 26624,
+                    "end": 26778,
+                    "confidence": 0.99783,
+                    "speaker": "A"
+                },
+                {
+                    "text": "you",
+                    "start": 26804,
+                    "end": 26994,
+                    "confidence": 0.98,
+                    "speaker": "A"
+                },
+                {
+                    "text": "mentioned,",
+                    "start": 27032,
+                    "end": 27378,
+                    "confidence": 0.99959,
+                    "speaker": "A"
+                },
+                {
+                    "text": "I'm",
+                    "start": 27464,
+                    "end": 27742,
+                    "confidence": 0.90509,
+                    "speaker": "A"
+                },
+                {
+                    "text": "a",
+                    "start": 27766,
+                    "end": 27918,
+                    "confidence": 0.88,
+                    "speaker": "A"
+                },
+                {
+                    "text": "second",
+                    "start": 27944,
+                    "end": 28170,
+                    "confidence": 0.99,
+                    "speaker": "A"
+                },
+                {
+                    "text": "year",
+                    "start": 28220,
+                    "end": 28398,
+                    "confidence": 0.96472,
+                    "speaker": "A"
+                },
+                {
+                    "text": "PhD",
+                    "start": 28424,
+                    "end": 28894,
+                    "confidence": 0.89765,
+                    "speaker": "A"
+                },
+                {
+                    "text": "student,",
+                    "start": 28942,
+                    "end": 29406,
+                    "confidence": 0.99451,
+                    "speaker": "A"
+                },
+                {
+                    "text": "and",
+                    "start": 29528,
+                    "end": 30200,
+                    "confidence": 0.81,
+                    "speaker": "A"
+                },
+                {
+                    "text": "I",
+                    "start": 30650,
+                    "end": 31050,
+                    "confidence": 0.62,
+                    "speaker": "A"
+                },
+                {
+                    "text": "work",
+                    "start": 31100,
+                    "end": 31314,
+                    "confidence": 0.99495,
+                    "speaker": "A"
+                },
+                {
+                    "text": "in",
+                    "start": 31352,
+                    "end": 31518,
+                    "confidence": 0.98589,
+                    "speaker": "A"
+                },
+                {
+                    "text": "bind",
+                    "start": 31544,
+                    "end": 31798,
+                    "confidence": 0.47886,
+                    "speaker": "A"
+                },
+                {
+                    "text": "format,",
+                    "start": 31834,
+                    "end": 32338,
+                    "confidence": 0.57948,
+                    "speaker": "A"
+                },
+                {
+                    "text": "and",
+                    "start": 32434,
+                    "end": 32694,
+                    "confidence": 0.52,
+                    "speaker": "A"
+                },
+                {
+                    "text": "I'm",
+                    "start": 32732,
+                    "end": 32938,
+                    "confidence": 0.7967,
+                    "speaker": "A"
+                },
+                {
+                    "text": "trying",
+                    "start": 32974,
+                    "end": 33138,
+                    "confidence": 0.99962,
+                    "speaker": "A"
+                },
+                {
+                    "text": "to",
+                    "start": 33164,
+                    "end": 33318,
+                    "confidence": 1,
+                    "speaker": "A"
+                },
+                {
+                    "text": "develop",
+                    "start": 33344,
+                    "end": 33678,
+                    "confidence": 0.99953,
+                    "speaker": "A"
+                },
+                {
+                    "text": "machine",
+                    "start": 33764,
+                    "end": 34078,
+                    "confidence": 0.99964,
+                    "speaker": "A"
+                },
+                {
+                    "text": "learning",
+                    "start": 34114,
+                    "end": 34386,
+                    "confidence": 0.99991,
+                    "speaker": "A"
+                },
+                {
+                    "text": "methods",
+                    "start": 34448,
+                    "end": 35134,
+                    "confidence": 0.98342,
+                    "speaker": "A"
+                },
+                {
+                    "text": "that",
+                    "start": 35242,
+                    "end": 35514,
+                    "confidence": 0.99792,
+                    "speaker": "A"
+                },
+                {
+                    "text": "will",
+                    "start": 35552,
+                    "end": 35718,
+                    "confidence": 0.99689,
+                    "speaker": "A"
+                },
+                {
+                    "text": "help",
+                    "start": 35744,
+                    "end": 35934,
+                    "confidence": 0.99991,
+                    "speaker": "A"
+                },
+                {
+                    "text": "us",
+                    "start": 35972,
+                    "end": 36138,
+                    "confidence": 1,
+                    "speaker": "A"
+                },
+                {
+                    "text": "understand",
+                    "start": 36164,
+                    "end": 36570,
+                    "confidence": 0.99993,
+                    "speaker": "A"
+                },
+                {
+                    "text": "better",
+                    "start": 36680,
+                    "end": 37340,
+                    "confidence": 0.99972,
+                    "speaker": "A"
+                },
+                {
+                    "text": "cardiomyopathies.",
+                    "start": 37670,
+                    "end": 38890,
+                    "confidence": 0.73296,
+                    "speaker": "A"
+                },
+                {
+                    "text": "And",
+                    "start": 38950,
+                    "end": 39210,
+                    "confidence": 0.5,
+                    "speaker": "A"
+                },
+                {
+                    "text": "cardiomyopathies",
+                    "start": 39260,
+                    "end": 40078,
+                    "confidence": 0.78036,
+                    "speaker": "A"
+                },
+                {
+                    "text": "are",
+                    "start": 40114,
+                    "end": 40278,
+                    "confidence": 0.9806,
+                    "speaker": "A"
+                },
+                {
+                    "text": "essentially",
+                    "start": 40304,
+                    "end": 41026,
+                    "confidence": 0.99603,
+                    "speaker": "A"
+                },
+                {
+                    "text": "a",
+                    "start": 41218,
+                    "end": 41574,
+                    "confidence": 0.95,
+                    "speaker": "A"
+                },
+                {
+                    "text": "disease",
+                    "start": 41612,
+                    "end": 42010,
+                    "confidence": 0.65554,
+                    "speaker": "A"
+                },
+                {
+                    "text": "in",
+                    "start": 42070,
+                    "end": 42258,
+                    "confidence": 0.68947,
+                    "speaker": "A"
+                },
+                {
+                    "text": "the",
+                    "start": 42284,
+                    "end": 42438,
+                    "confidence": 0.99,
+                    "speaker": "A"
+                },
+                {
+                    "text": "heart",
+                    "start": 42464,
+                    "end": 42690,
+                    "confidence": 0.99871,
+                    "speaker": "A"
+                },
+                {
+                    "text": "muscle",
+                    "start": 42740,
+                    "end": 43546,
+                    "confidence": 0.99839,
+                    "speaker": "A"
+                },
+                {
+                    "text": "that",
+                    "start": 43738,
+                    "end": 44058,
+                    "confidence": 0.99279,
+                    "speaker": "A"
+                },
+                {
+                    "text": "has",
+                    "start": 44084,
+                    "end": 44238,
+                    "confidence": 0.9967,
+                    "speaker": "A"
+                },
+                {
+                    "text": "a",
+                    "start": 44264,
+                    "end": 44382,
+                    "confidence": 0.98,
+                    "speaker": "A"
+                },
+                {
+                    "text": "genetic",
+                    "start": 44396,
+                    "end": 44794,
+                    "confidence": 0.83572,
+                    "speaker": "A"
+                },
+                {
+                    "text": "component,",
+                    "start": 44842,
+                    "end": 45630,
+                    "confidence": 0.83721,
+                    "speaker": "A"
+                },
+                {
+                    "text": "so",
+                    "start": 46070,
+                    "end": 46434,
+                    "confidence": 0.88742,
+                    "speaker": "A"
+                },
+                {
+                    "text": "it",
+                    "start": 46472,
+                    "end": 46638,
+                    "confidence": 0.94,
+                    "speaker": "A"
+                },
+                {
+                    "text": "can",
+                    "start": 46664,
+                    "end": 46818,
+                    "confidence": 0.99934,
+                    "speaker": "A"
+                },
+                {
+                    "text": "be",
+                    "start": 46844,
+                    "end": 46962,
+                    "confidence": 0.99831,
+                    "speaker": "A"
+                },
+                {
+                    "text": "inherited",
+                    "start": 46976,
+                    "end": 47806,
+                    "confidence": 0.68653,
+                    "speaker": "A"
+                },
+                {
+                    "text": "through",
+                    "start": 47998,
+                    "end": 48354,
+                    "confidence": 0.98253,
+                    "speaker": "A"
+                },
+                {
+                    "text": "a",
+                    "start": 48392,
+                    "end": 48522,
+                    "confidence": 0.79,
+                    "speaker": "A"
+                },
+                {
+                    "text": "family,",
+                    "start": 48536,
+                    "end": 49074,
+                    "confidence": 1,
+                    "speaker": "A"
+                },
+                {
+                    "text": "and",
+                    "start": 49232,
+                    "end": 49662,
+                    "confidence": 0.85,
+                    "speaker": "A"
+                },
+                {
+                    "text": "it",
+                    "start": 49736,
+                    "end": 49974,
+                    "confidence": 0.99,
+                    "speaker": "A"
+                },
+                {
+                    "text": "actually",
+                    "start": 50012,
+                    "end": 50322,
+                    "confidence": 0.99832,
+                    "speaker": "A"
+                },
+                {
+                    "text": "makes",
+                    "start": 50396,
+                    "end": 50634,
+                    "confidence": 0.99837,
+                    "speaker": "A"
+                },
+                {
+                    "text": "it",
+                    "start": 50672,
+                    "end": 50838,
+                    "confidence": 0.96,
+                    "speaker": "A"
+                },
+                {
+                    "text": "harder",
+                    "start": 50864,
+                    "end": 51142,
+                    "confidence": 0.9996,
+                    "speaker": "A"
+                },
+                {
+                    "text": "for",
+                    "start": 51166,
+                    "end": 51318,
+                    "confidence": 0.9994,
+                    "speaker": "A"
+                },
+                {
+                    "text": "the",
+                    "start": 51344,
+                    "end": 51498,
+                    "confidence": 0.98,
+                    "speaker": "A"
+                },
+                {
+                    "text": "heart",
+                    "start": 51524,
+                    "end": 51822,
+                    "confidence": 0.88644,
+                    "speaker": "A"
+                },
+                {
+                    "text": "to",
+                    "start": 51896,
+                    "end": 52314,
+                    "confidence": 0.99,
+                    "speaker": "A"
+                },
+                {
+                    "text": "pump",
+                    "start": 52412,
+                    "end": 52714,
+                    "confidence": 0.98981,
+                    "speaker": "A"
+                },
+                {
+                    "text": "blood,",
+                    "start": 52762,
+                    "end": 53110,
+                    "confidence": 0.98883,
+                    "speaker": "A"
+                },
+                {
+                    "text": "and",
+                    "start": 53170,
+                    "end": 53646,
+                    "confidence": 0.95,
+                    "speaker": "A"
+                },
+                {
+                    "text": "it",
+                    "start": 53768,
+                    "end": 53982,
+                    "confidence": 0.96,
+                    "speaker": "A"
+                },
+                {
+                    "text": "can",
+                    "start": 53996,
+                    "end": 54138,
+                    "confidence": 0.61103,
+                    "speaker": "A"
+                },
+                {
+                    "text": "lead",
+                    "start": 54164,
+                    "end": 54318,
+                    "confidence": 0.69613,
+                    "speaker": "A"
+                },
+                {
+                    "text": "to",
+                    "start": 54344,
+                    "end": 54966,
+                    "confidence": 0.7,
+                    "speaker": "A"
+                },
+                {
+                    "text": "sudden",
+                    "start": 55148,
+                    "end": 55534,
+                    "confidence": 0.60231,
+                    "speaker": "A"
+                },
+                {
+                    "text": "cardiac",
+                    "start": 55582,
+                    "end": 56038,
+                    "confidence": 0.95756,
+                    "speaker": "A"
+                },
+                {
+                    "text": "death.",
+                    "start": 56074,
+                    "end": 56730,
+                    "confidence": 0.88022,
+                    "speaker": "A"
+                },
+                {
+                    "text": "So",
+                    "start": 57410,
+                    "end": 57738,
+                    "confidence": 0.76541,
+                    "speaker": "A"
+                },
+                {
+                    "text": "I'm",
+                    "start": 57764,
+                    "end": 58138,
+                    "confidence": 0.25583,
+                    "speaker": "A"
+                },
+                {
+                    "text": "using",
+                    "start": 58174,
+                    "end": 58518,
+                    "confidence": 0.99948,
+                    "speaker": "A"
+                },
+                {
+                    "text": "a",
+                    "start": 58604,
+                    "end": 58818,
+                    "confidence": 0.64,
+                    "speaker": "A"
+                },
+                {
+                    "text": "combination",
+                    "start": 58844,
+                    "end": 59314,
+                    "confidence": 0.43091,
+                    "speaker": "A"
+                },
+                {
+                    "text": "of",
+                    "start": 59362,
+                    "end": 59538,
+                    "confidence": 1,
+                    "speaker": "A"
+                },
+                {
+                    "text": "different",
+                    "start": 59564,
+                    "end": 59862,
+                    "confidence": 0.99946,
+                    "speaker": "A"
+                },
+                {
+                    "text": "data",
+                    "start": 59936,
+                    "end": 60174,
+                    "confidence": 0.55189,
+                    "speaker": "A"
+                },
+                {
+                    "text": "in",
+                    "start": 60212,
+                    "end": 60342,
+                    "confidence": 0.62024,
+                    "speaker": "A"
+                },
+                {
+                    "text": "order",
+                    "start": 60356,
+                    "end": 60570,
+                    "confidence": 0.93768,
+                    "speaker": "A"
+                },
+                {
+                    "text": "to",
+                    "start": 60620,
+                    "end": 60762,
+                    "confidence": 1,
+                    "speaker": "A"
+                },
+                {
+                    "text": "be",
+                    "start": 60776,
+                    "end": 60918,
+                    "confidence": 0.99741,
+                    "speaker": "A"
+                },
+                {
+                    "text": "able",
+                    "start": 60944,
+                    "end": 61242,
+                    "confidence": 0.73656,
+                    "speaker": "A"
+                },
+                {
+                    "text": "to",
+                    "start": 61316,
+                    "end": 61878,
+                    "confidence": 1,
+                    "speaker": "A"
+                },
+                {
+                    "text": "understand",
+                    "start": 62024,
+                    "end": 62478,
+                    "confidence": 0.99995,
+                    "speaker": "A"
+                },
+                {
+                    "text": "more",
+                    "start": 62564,
+                    "end": 63210,
+                    "confidence": 0.99,
+                    "speaker": "A"
+                },
+                {
+                    "text": "this",
+                    "start": 63380,
+                    "end": 63750,
+                    "confidence": 0.91,
+                    "speaker": "A"
+                },
+                {
+                    "text": "disease",
+                    "start": 63800,
+                    "end": 64354,
+                    "confidence": 0.67137,
+                    "speaker": "A"
+                },
+                {
+                    "text": "and",
+                    "start": 64462,
+                    "end": 64914,
+                    "confidence": 0.99,
+                    "speaker": "A"
+                },
+                {
+                    "text": "develop",
+                    "start": 65012,
+                    "end": 65382,
+                    "confidence": 0.9975,
+                    "speaker": "A"
+                },
+                {
+                    "text": "machine",
+                    "start": 65456,
+                    "end": 65758,
+                    "confidence": 0.9956,
+                    "speaker": "A"
+                },
+                {
+                    "text": "learning",
+                    "start": 65794,
+                    "end": 66066,
+                    "confidence": 0.99992,
+                    "speaker": "A"
+                },
+                {
+                    "text": "methods.",
+                    "start": 66128,
+                    "end": 66430,
+                    "confidence": 0.88394,
+                    "speaker": "A"
+                }
+            ]
+        }
+    ],
+    "confidence": 0.861660738636363,
+    "audio_duration": 67,
+    "punctuate": true,
+    "format_text": true,
+    "dual_channel": null,
+    "webhook_url": null,
+    "webhook_status_code": null,
+    "webhook_auth": false,
+    "webhook_auth_header_name": null,
+    "speed_boost": false,
+    "auto_highlights_result": {
+        "status": "success",
+        "results": [
+            {
+                "count": 2,
+                "rank": 0.12,
+                "text": "machine learning methods",
+                "timestamps": [
+                    {
+                        "start": 33764,
+                        "end": 35134
+                    },
+                    {
+                        "start": 65456,
+                        "end": 66430
+                    }
+                ]
+            },
+            {
+                "count": 1,
+                "rank": 0.11,
+                "text": "late online student takeover",
+                "timestamps": [
+                    {
+                        "start": 1438,
+                        "end": 3430
+                    }
+                ]
+            },
+            {
+                "count": 2,
+                "rank": 0.1,
+                "text": "PhD student",
+                "timestamps": [
+                    {
+                        "start": 8540,
+                        "end": 9402
+                    },
+                    {
+                        "start": 28424,
+                        "end": 29406
+                    }
+                ]
+            },
+            {
+                "count": 1,
+                "rank": 0.09,
+                "text": "bioinformatics and machine learning learning methods",
+                "timestamps": [
+                    {
+                        "start": 13184,
+                        "end": 15850
+                    }
+                ]
+            },
+            {
+                "count": 1,
+                "rank": 0.09,
+                "text": "sudden cardiac death",
+                "timestamps": [
+                    {
+                        "start": 55148,
+                        "end": 56730
+                    }
+                ]
+            },
+            {
+                "count": 1,
+                "rank": 0.08,
+                "text": "different data",
+                "timestamps": [
+                    {
+                        "start": 59564,
+                        "end": 60174
+                    }
+                ]
+            },
+            {
+                "count": 1,
+                "rank": 0.08,
+                "text": "Romney Haywood",
+                "timestamps": [
+                    {
+                        "start": 4136,
+                        "end": 4894
+                    }
+                ]
+            },
+            {
+                "count": 1,
+                "rank": 0.08,
+                "text": "bind format",
+                "timestamps": [
+                    {
+                        "start": 31544,
+                        "end": 32338
+                    }
+                ]
+            },
+            {
+                "count": 1,
+                "rank": 0.08,
+                "text": "Mel Pikasafi",
+                "timestamps": [
+                    {
+                        "start": 9476,
+                        "end": 10498
+                    }
+                ]
+            },
+            {
+                "count": 1,
+                "rank": 0.08,
+                "text": "Roman Lee",
+                "timestamps": [
+                    {
+                        "start": 18872,
+                        "end": 19318
+                    }
+                ]
+            },
+            {
+                "count": 1,
+                "rank": 0.07,
+                "text": "second year PhD student",
+                "timestamps": [
+                    {
+                        "start": 27944,
+                        "end": 29406
+                    }
+                ]
+            },
+            {
+                "count": 1,
+                "rank": 0.07,
+                "text": "better cardiomyopathies",
+                "timestamps": [
+                    {
+                        "start": 36680,
+                        "end": 38890
+                    }
+                ]
+            },
+            {
+                "count": 1,
+                "rank": 0.06,
+                "text": "order",
+                "timestamps": [
+                    {
+                        "start": 60356,
+                        "end": 60570
+                    }
+                ]
+            },
+            {
+                "count": 1,
+                "rank": 0.06,
+                "text": "Imperial",
+                "timestamps": [
+                    {
+                        "start": 908,
+                        "end": 1366
+                    }
+                ]
+            },
+            {
+                "count": 2,
+                "rank": 0.06,
+                "text": "today",
+                "timestamps": [
+                    {
+                        "start": 7364,
+                        "end": 7626
+                    },
+                    {
+                        "start": 17576,
+                        "end": 17790
+                    }
+                ]
+            }
+        ]
+    },
+    "auto_highlights": true,
+    "audio_start_from": null,
+    "audio_end_at": null,
+    "word_boost": [],
+    "boost_param": null,
+    "filter_profanity": false,
+    "redact_pii": false,
+    "redact_pii_audio": false,
+    "redact_pii_audio_quality": null,
+    "redact_pii_policies": null,
+    "redact_pii_sub": null,
+    "speaker_labels": true,
+    "content_safety": false,
+    "iab_categories": true,
+    "content_safety_labels": {
+        "status": "unavailable",
+        "results": [],
+        "summary": {}
+    },
+    "iab_categories_result": {
+        "status": "success",
+        "results": [
+            {
+                "text": "And welcome to Imperial late online student takeover. My name is Romney Haywood, and I'll be your host for today's talk. And today, I'm. Joined by PhD student. Mel Pikasafi, who is studying cardiomyopathy with the use of bioinformatics and machine learning learning methods. Thank you so much for being here with us today. Matthew. Hi. Roman Lee. Really nice to be here. So, I guess my first question for you is, what exactly is it that you do?",
+                "labels": [
+                    {
+                        "relevance": 0.8377099633216858,
+                        "label": "MedicalHealth>DiseasesAndConditions>HeartAndCardiovascularDiseases"
+                    },
+                    {
+                        "relevance": 0.045467402786016464,
+                        "label": "HealthyLiving>Wellness>PhysicalTherapy"
+                    },
+                    {
+                        "relevance": 0.020185990259051323,
+                        "label": "HealthyLiving>FitnessAndExercise"
+                    },
+                    {
+                        "relevance": 0.0043614935129880905,
+                        "label": "HealthyLiving>Wellness>AlternativeMedicine>HolisticHealth"
+                    },
+                    {
+                        "relevance": 0.003945894073694944,
+                        "label": "MedicalHealth>DiseasesAndConditions>BrainAndNervousSystemDisorders"
+                    },
+                    {
+                        "relevance": 0.003896402893587947,
+                        "label": "MedicalHealth>DiseasesAndConditions>Diabetes"
+                    },
+                    {
+                        "relevance": 0.0034093440044671297,
+                        "label": "Technology&Computing>ArtificialIntelligence"
+                    },
+                    {
+                        "relevance": 0.0029391844291239977,
+                        "label": "MedicalHealth>DiseasesAndConditions>SleepDisorders"
+                    },
+                    {
+                        "relevance": 0.002720945281907916,
+                        "label": "HealthyLiving"
+                    },
+                    {
+                        "relevance": 0.0019282263237982988,
+                        "label": "HealthyLiving>SeniorHealth"
+                    }
+                ],
+                "timestamp": {
+                    "start": 70,
+                    "end": 25100
+                }
+            },
+            {
+                "text": "So, as you mentioned, I'm a second year PhD student, and I work in bind format, and I'm trying to develop machine learning methods that will help us understand better cardiomyopathies. And cardiomyopathies are essentially a disease in the heart muscle that has a genetic component, so it can be inherited through a family, and it actually makes it harder for the heart to pump blood, and it can lead to sudden cardiac death.",
+                "labels": [
+                    {
+                        "relevance": 0.9856323003768921,
+                        "label": "MedicalHealth>DiseasesAndConditions>HeartAndCardiovascularDiseases"
+                    },
+                    {
+                        "relevance": 0.018490031361579895,
+                        "label": "MedicalHealth>DiseasesAndConditions>Diabetes"
+                    },
+                    {
+                        "relevance": 0.013186536729335785,
+                        "label": "MedicalHealth>DiseasesAndConditions>BrainAndNervousSystemDisorders"
+                    },
+                    {
+                        "relevance": 0.004134029150009155,
+                        "label": "MedicalHealth>DiseasesAndConditions"
+                    },
+                    {
+                        "relevance": 0.002262827241793275,
+                        "label": "MedicalHealth>DiseasesAndConditions>EndocrineAndMetabolicDiseases"
+                    },
+                    {
+                        "relevance": 0.0018539548618718982,
+                        "label": "MedicalHealth>DiseasesAndConditions>SleepDisorders"
+                    },
+                    {
+                        "relevance": 0.0009287838474847376,
+                        "label": "Technology&Computing>ArtificialIntelligence"
+                    },
+                    {
+                        "relevance": 0.0008976950775831938,
+                        "label": "HealthyLiving>FitnessAndExercise"
+                    },
+                    {
+                        "relevance": 0.0007146280258893967,
+                        "label": "MedicalHealth>DiseasesAndConditions>LungAndRespiratoryHealth"
+                    },
+                    {
+                        "relevance": 0.0006453283713199198,
+                        "label": "Automotive>AutoSafety"
+                    }
+                ],
+                "timestamp": {
+                    "start": 26270,
+                    "end": 56730
+                }
+            },
+            {
+                "text": "So I'm using a combination of different data in order to be able to understand more this disease and develop machine learning methods.",
+                "labels": [
+                    {
+                        "relevance": 0.81739741563797,
+                        "label": "Technology&Computing>ArtificialIntelligence"
+                    },
+                    {
+                        "relevance": 0.01760885864496231,
+                        "label": "Technology&Computing>Robotics"
+                    },
+                    {
+                        "relevance": 0.009944438003003597,
+                        "label": "MedicalHealth>MedicalTests"
+                    },
+                    {
+                        "relevance": 0.006306745577603579,
+                        "label": "MedicalHealth>DiseasesAndConditions>BrainAndNervousSystemDisorders"
+                    },
+                    {
+                        "relevance": 0.00495684752240777,
+                        "label": "MedicalHealth>DiseasesAndConditions"
+                    },
+                    {
+                        "relevance": 0.004814344923943281,
+                        "label": "Technology&Computing>Computing"
+                    },
+                    {
+                        "relevance": 0.0044755106791853905,
+                        "label": "MedicalHealth>DiseasesAndConditions>EndocrineAndMetabolicDiseases>ThyroidDisorders"
+                    },
+                    {
+                        "relevance": 0.0036504205781966448,
+                        "label": "Science"
+                    },
+                    {
+                        "relevance": 0.00316248694434762,
+                        "label": "MedicalHealth>DiseasesAndConditions>EndocrineAndMetabolicDiseases"
+                    },
+                    {
+                        "relevance": 0.0026801354251801968,
+                        "label": "VideoGaming>VideoGameGenres>SimulationVideoGames"
+                    }
+                ],
+                "timestamp": {
+                    "start": 57410,
+                    "end": 66430
+                }
+            }
+        ],
+        "summary": {
+            "MedicalHealth>DiseasesAndConditions>HeartAndCardiovascularDiseases": 1,
+            "Technology&Computing>ArtificialIntelligence": 0.45039692521095276,
+            "HealthyLiving>Wellness>PhysicalTherapy": 0.025098254904150963,
+            "MedicalHealth>DiseasesAndConditions>Diabetes": 0.013076403178274632,
+            "MedicalHealth>DiseasesAndConditions>BrainAndNervousSystemDisorders": 0.012847116217017174,
+            "HealthyLiving>FitnessAndExercise": 0.011618606746196747,
+            "Technology&Computing>Robotics": 0.009831306524574757,
+            "MedicalHealth>MedicalTests": 0.005878758151084185,
+            "MedicalHealth>DiseasesAndConditions": 0.005466101691126823,
+            "HealthyLiving>Wellness>AlternativeMedicine>HolisticHealth": 0.003363169962540269,
+            "MedicalHealth>DiseasesAndConditions>EndocrineAndMetabolicDiseases": 0.0032511919271200895,
+            "MedicalHealth>DiseasesAndConditions>SleepDisorders": 0.002756274538114667,
+            "Technology&Computing>Computing": 0.002736377762630582,
+            "MedicalHealth>DiseasesAndConditions>EndocrineAndMetabolicDiseases>ThyroidDisorders": 0.0026143700815737247,
+            "Science": 0.0021547789219766855,
+            "HealthyLiving": 0.001755759003572166,
+            "HealthyLiving>SeniorHealth": 0.0016146238194778562,
+            "VideoGaming>VideoGameGenres>SimulationVideoGames": 0.0015451217768713832,
+            "HealthyLiving>Wellness>AlternativeMedicine": 0.0015315004857257009,
+            "Technology&Computing>Computing>Internet>SocialNetworking": 0.0013121544616296887
+        }
+    },
+    "language_detection": false,
+    "custom_spelling": null,
+    "disfluencies": false,
+    "sentiment_analysis": false,
+    "auto_chapters": false,
+    "chapters": null,
+    "sentiment_analysis_results": null,
+    "entity_detection": false,
+    "entities": null
+}
